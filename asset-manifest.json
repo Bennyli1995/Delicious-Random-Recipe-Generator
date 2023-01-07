@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Delicious-Random-Recipe-Generator/static/css/main.c6e35c61.css",
+    "main.js": "/Delicious-Random-Recipe-Generator/static/js/main.0e0a2255.js",
+    "index.html": "/Delicious-Random-Recipe-Generator/index.html",
+    "main.c6e35c61.css.map": "/Delicious-Random-Recipe-Generator/static/css/main.c6e35c61.css.map",
+    "main.0e0a2255.js.map": "/Delicious-Random-Recipe-Generator/static/js/main.0e0a2255.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6e35c61.css",
+    "static/js/main.0e0a2255.js"
+  ]
+}
